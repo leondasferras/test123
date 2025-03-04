@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+  padding-left: 20px;
+}
+
+body {
+  width: 100vw;
+  height: 100vw;
+}
